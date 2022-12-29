@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - "Heart Failure"❤🩺
+# Exploratory Data Analysis - "Heart Failure"❤🩺📊
 
 Repository dedicated to my "Heart Failure" Exploratory Data Analysis(EDA). On this repository there is a Jupyter Notebook, wich contains my EDA; and a .csv file, that holds the correspondenting dataset.
 
