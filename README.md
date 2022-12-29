@@ -13,9 +13,11 @@ Dataset source link:https://www.kaggle.com/datasets/asgharalikhan/mortality-rate
     - The mortality proportion (non-survivor /survivor) of those who have heart failure family history: 8.0
     - The mortality proportion (non-survivor /survivor) of those who don't have heart failure family history: 3.1
  - Diabetic individuals has showed a higher mortality level in comparision to their pairs.
+    - From all diabetics, just 9.6% have survived.
  - Individuals who have Smoking habits, have showed a higher mortality level in comparision to their pairs.
     - The mortality proportion (non-survivor /survivor) of those who smoke: 5.5
     - The mortality proportion (non-survivor /survivor) of those who don't smoke: 2.5
+    - From all smokers, just 15.38% have survived.
  - The vast majority of individuals from this dataset have depression (~95%).
  - The individuals from this dataset have showed high levels of C.P.K. in the blood.
     - Which can be related as an indication of damage to CK-rich tissue (like myocardial tissue). Since all the individuals had a heart failure, this could explain the high levels, and even the outliers.
